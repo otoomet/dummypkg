@@ -1,7 +1,7 @@
 Package: dummytest
 Version: 0.0-1
 Date: 2025-08-11
-Title: Testing R package workflows
+Title: Testing R Package Workflows
 Authors@R: c(person("Ott", "Toomet", role=c("aut", "cre"), email="otoomet@gmail.com"))
 Depends: R (>= 2.4.0), praise
 BugReports: https://github.com/otoomet/dummypkg/issues
