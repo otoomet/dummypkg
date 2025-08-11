@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+## Other arguments for 'docker build', such as
+docker build --tag dummy-pkg $1 .
+echo
+echo "  checking on R: "
+docker run dummy-pkg RD --version
+echo
+docker run dummy-pkg ./build-check

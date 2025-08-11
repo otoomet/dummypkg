@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+RD CMD build dummypkg
+RD CMD check --as-cran dummy_0.0-1.tar.gz

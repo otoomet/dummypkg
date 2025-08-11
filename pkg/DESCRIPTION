@@ -1,0 +1,14 @@
+Package: dummytest
+Version: 0.0-1
+Date: 2025-08-11
+Title: Testing R package workflows
+Authors@R: c(person("Ott", "Toomet", role=c("aut", "cre"), email="otoomet@gmail.com"))
+Depends: R (>= 2.4.0), praise
+BugReports: https://github.com/otoomet/dummypkg/issues
+Description: Testing different R package development workflows.
+	     Currently interested in case where two R versions are installed side-by-side
+	     with different packages available for each.
+	     Here package 'praise'.
+License: GPL (>= 2)
+ByteCompile: yes
+

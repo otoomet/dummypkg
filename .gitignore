@@ -1,0 +1,7 @@
+# leftovers
+*~
+
+# R created stuff
+*.Rcheck
+*.tar.gz
+

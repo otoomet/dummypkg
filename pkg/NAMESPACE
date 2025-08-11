@@ -1,0 +1,2 @@
+importFrom("praise", "praise")
+export("commend")
