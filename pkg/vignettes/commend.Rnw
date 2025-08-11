@@ -1,5 +1,6 @@
 \documentclass{article}
 
+% \VignetteEngine{knitr::knitr}
 % \VignetteIndexEntry{More about 'commend'}
 
 \begin{document}
@@ -14,7 +15,7 @@ set.seed(34)
 \author{Ott Toomet}
 \maketitle
 
-\section{Introduction}
+\section{Commend}
 
 This is a test vignette to see if it compiles in docker.
 

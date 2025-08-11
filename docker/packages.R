@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 ## Install the required packages
 packages <- c(
-   "praise"
+   "praise", "knitr"
 )
 
 cat("R version ",
