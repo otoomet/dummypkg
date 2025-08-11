@@ -1,5 +1,5 @@
 Package: dummytest
-Version: 0.0-1
+Version: 0.0-2
 Date: 2025-08-11
 Title: Testing R Package Workflows
 Authors@R: c(person("Ott", "Toomet", role=c("aut", "cre"), email="otoomet@gmail.com"))

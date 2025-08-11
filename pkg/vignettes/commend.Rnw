@@ -1,0 +1,27 @@
+\documentclass{article}
+
+% \VignetteIndexEntry{More about 'commend'}
+
+\begin{document}
+<<foo,include=FALSE,echo=FALSE>>=
+options(keep.source = TRUE, width = 60,
+        try.outFile=stdout()  # make try to produce error messages
+        )
+set.seed(34)
+@
+
+\title{More about \texttt{commend()}}
+\author{Ott Toomet}
+\maketitle
+
+\section{Introduction}
+
+This is a test vignette to see if it compiles in docker.
+
+Here some test code to commend you:
+<<>>=
+library(dummytest)
+commend()
+@ 
+
+\end{document}
